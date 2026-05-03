@@ -8,4 +8,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1321-restaurant-growth](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1321-restaurant-growth) |
+| [1934-confirmation-rate](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1193-monthly-transactions-i) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1321-restaurant-growth) |
 | [1934-confirmation-rate](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->

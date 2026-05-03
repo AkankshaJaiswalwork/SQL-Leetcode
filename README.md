@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0550-game-play-analysis-iv](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/0585-investments-in-2016) |
 | [0626-exchange-seats](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1070-product-sales-analysis-iii) |

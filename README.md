@@ -16,5 +16,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1321-restaurant-growth](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1321-restaurant-growth) |
+| [1907-count-salary-categories](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->

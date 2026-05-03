@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1045-customers-who-bought-all-products](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1070-product-sales-analysis-iii) |
+| [1164-product-price-at-a-given-date](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1174-immediate-food-delivery-ii](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1321-restaurant-growth](https://github.com/AkankshaJaiswalwork/SQL-Leetcode/tree/master/1321-restaurant-growth) |
